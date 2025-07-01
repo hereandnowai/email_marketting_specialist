@@ -1,0 +1,8 @@
+{
+  "name": "email_marketting_specialist",
+  "description": "An AI-powered application to analyze customer data, generate personalized email campaigns, optimize send times, and provide performance insights for email marketing. Powered by Here and Now AI Research Institute.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
